@@ -1,0 +1,130 @@
+
+
+
+.home_title{
+color: #1F2E35;
+font-family: sans-serif;
+margin: 20px 0 0 500px;
+}
+.home_img{
+    margin-top: 45px;
+    margin-left: 50px;
+}
+.home_p{
+    font-size: 28px;
+    font-family: sans-serif;
+    color: #EE4248;
+    font-weight: 500;
+    margin: 10px 0 0 50px;
+}
+.home_section_p{
+    color: #30444E;
+    width: 319px;
+height: 108px;
+margin: 10px 0 0 50px;
+line-height: 27px;
+}
+.home_button{
+    color: #FFFFFF;
+    background-color: #EE4248;
+padding: 8px 16px;
+gap: 10px;
+border-radius: 3px;
+width: 120px;
+height: 45px;
+margin: 0 0 0 50px;
+font-size: 16px;
+}
+.bosh_div{
+    display: flex;
+    margin: 0 0 0 70px;
+}
+.footer_img{
+    margin: 85px 0 0 82px;
+}
+.footer-p{
+color: #263238;
+font-family:sans-serif;
+font-size: 18px;
+font-weight: 500;
+padding: 5px 80px;
+}
+.footer-p2{
+    color: #263238;
+    font-family:sans-serif;
+    font-size: 18px;
+    padding: 5px 80px;
+    font-weight: 200;
+    line-height: 26.85px;
+    width: 457px;
+    height: 54px;
+    top: 123px;
+    left: 1px;
+}
+.footer-p3{
+    font-family: Roboto;
+font-size: 24px;
+font-weight: 600;
+line-height: 28.13px;
+color: #263238;
+margin: -130px 0 0 450px;
+}
+.p-footer{
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 300;
+line-height: 26.85px;
+color: #263238;
+width: 229px;
+height: 91px;
+top: 14px;
+left: 450px;
+position: relative;
+
+}
+.p-footer2{
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 300;
+line-height: 26.85px;
+color: #263238;
+width: 229px;
+height: 91px;
+top: -44px;
+left: 450px;
+position: relative;
+
+}
+.p-footer3{
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 300;
+line-height: 26.85px;
+color: #263238;
+width: 329px;
+height: 91px;
+top: -104px;
+left: 450px;
+position: relative;
+
+}
+.footer-footer{
+    background-color: #EE4248;
+    width: 1345px;
+height: 54px;
+top: -100px;
+padding: 22px 0px 21px 0px;
+position: relative;
+}
+.oxir{
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 21.09px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+align-items: center;
+margin: 0 0 0 450px;
+}
